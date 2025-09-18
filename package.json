@@ -1,13 +1,9 @@
 {
-  "name": "idealista-scraper",
+  "name": "idealista",
   "version": "1.0.0",
   "main": "scraping.js",
-  "scripts": {
-    "start": "node scraping.js"
-  },
   "dependencies": {
-    "playwright": "^1.47.0",
-    "playwright-extra": "^4.3.6",
-    "playwright-extra-plugin-stealth": "^2.11.2"
+    "chromedriver": "^140.0.3",
+    "selenium-webdriver": "^4.35.0"
   }
 }
