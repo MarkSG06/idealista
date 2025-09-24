@@ -1,9 +1,9 @@
 {
   "name": "idealista",
   "version": "1.0.0",
-  "main": "scraping.js",
+  "type": "module",
   "dependencies": {
-    "chromedriver": "^140.0.3",
-    "selenium-webdriver": "^4.35.0"
+    "chromedriver": "^130.0.0",
+    "selenium-webdriver": "^4.24.0"
   }
 }

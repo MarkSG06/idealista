@@ -1,0 +1,444 @@
+[
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/14/67/7c/1357397459.jpg",
+    "ubicacion": "Calle Almendros, Pinares de San Antón, Málaga",
+    "detalles": {
+      "tipo": "Casa o chalet independiente",
+      "metros_construidos": 492,
+      "habitaciones": 6,
+      "baños": 5,
+      "parcela_m2": 985,
+      "terraza": true,
+      "garaje": "incluido",
+      "estado": "Segunda mano/para reformar",
+      "trastero": true,
+      "orientacion": "sur, oeste",
+      "calefaccion": "individual eléctrica",
+      "equipamiento": [
+        "Piscina",
+        "Jardín"
+      ],
+      "precio_por_m2": "3.049 €/m²"
+    },
+    "precio": "1.500.000 €",
+    "url": "https://www.idealista.com/inmueble/108864892/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/25/ce/4d/1349259669.jpg",
+    "ubicacion": "Calle Estados Unidos s/n, Añoreta Golf - Paraíso del Sol, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Chalet pareado",
+      "metros_construidos": 204,
+      "metros_utiles": 172,
+      "habitaciones": 4,
+      "baños": 3,
+      "terraza": true,
+      "garaje": "incluido",
+      "estado": "Segunda mano/buen estado",
+      "armarios_empotrados": true,
+      "trastero": true,
+      "orientacion": "sur, oeste",
+      "calefaccion": "individual eléctrica",
+      "equipamiento": [
+        "Aire acondicionado",
+        "Jardín"
+      ],
+      "precio_por_m2": "2.304 €/m²",
+      "anio_construccion": 2003
+    },
+    "precio": "470.000 €",
+    "url": "https://www.idealista.com/inmueble/108459615/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/f5/5e/5a/1332900619.jpg",
+    "ubicacion": "Calle Venezuela, Pedregalejo - Morlaco, Málaga",
+    "detalles": {
+      "tipo": "Piso",
+      "metros_construidos": 160,
+      "habitaciones": 5,
+      "baños": "N/A",
+      "planta": "4ª exterior con ascensor",
+      "garaje": "incluido"
+    },
+    "precio": "795.000 €",
+    "url": "https://www.idealista.com/inmueble/108041827/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/1d/78/09/1362067057.jpg",
+    "ubicacion": "Calle Pintor Sánchez Cotán, Cerrado de Calderón - Hacienda Paredes, Málaga",
+    "detalles": {
+      "tipo": "Casa o chalet independiente",
+      "metros_construidos": 125,
+      "habitaciones": 3,
+      "baños": "N/A",
+      "garaje": "N/A"
+    },
+    "precio": "505.000 €",
+    "url": "https://www.idealista.com/inmueble/108974230/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/64/6d/c3/1359875742.jpg",
+    "ubicacion": "Calle Lancelot, Lo Cea - Los Cortijos, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Chalet adosado",
+      "metros_construidos": 154,
+      "habitaciones": 3,
+      "baños": "N/A",
+      "garaje": "incluido"
+    },
+    "precio": "420.000 €",
+    "url": "https://www.idealista.com/inmueble/108951401/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/09/f7/f4/1314013317.jpg",
+    "ubicacion": "Urbanización las Pedrizas, Playa del Rincón, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Chalet adosado",
+      "metros_construidos": 115,
+      "habitaciones": 3,
+      "baños": "N/A"
+    },
+    "precio": "335.000 €",
+    "url": "https://www.idealista.com/inmueble/107484679/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/81/27/48/1347651207.jpg",
+    "ubicacion": "Calle Torrox, Lo Cea - Los Cortijos, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Piso",
+      "metros_construidos": 72,
+      "habitaciones": 1,
+      "baños": "N/A",
+      "planta": "1ª con ascensor"
+    },
+    "precio": "299.000 €",
+    "url": "https://www.idealista.com/inmueble/108531038/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/f2/01/38/1347604129.jpg",
+    "ubicacion": "Calle Belice, Añoreta Golf - Paraíso del Sol, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Chalet adosado",
+      "metros_construidos": 139,
+      "habitaciones": 3,
+      "baños": "N/A",
+      "garaje": "incluido"
+    },
+    "precio": "450.000 €",
+    "url": "https://www.idealista.com/inmueble/108528967/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/08/2f/bc/1329180384.jpg",
+    "ubicacion": "Calle La Marina, Torre de Benagalbón, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Ático",
+      "metros_construidos": 86,
+      "habitaciones": 3,
+      "baños": "N/A",
+      "planta": "2ª exterior con ascensor",
+      "garaje": "incluido"
+    },
+    "precio": "395.000 €",
+    "url": "https://www.idealista.com/inmueble/107947901/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/23/f5/5a/1292043468.jpg",
+    "ubicacion": "Calle Estados Unidos, Añoreta Golf - Paraíso del Sol, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Chalet adosado",
+      "metros_construidos": 198,
+      "habitaciones": 4,
+      "baños": "N/A",
+      "garaje": "incluido"
+    },
+    "precio": "435.000 €",
+    "url": "https://www.idealista.com/inmueble/106723553/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/73/9c/20/1370517355.jpg",
+    "ubicacion": "Urbanización Gransol, Gran Sol - Montesol, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Chalet adosado",
+      "metros_construidos": 140,
+      "habitaciones": 3,
+      "baños": "N/A",
+      "garaje": "incluido"
+    },
+    "precio": "487.000 €",
+    "url": "https://www.idealista.com/inmueble/109305270/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/9f/ae/2d/1330274628.jpg",
+    "ubicacion": "Calle Antonio Machado, La Cala del Moral, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Casa o chalet independiente",
+      "metros_construidos": 297,
+      "habitaciones": 5,
+      "baños": "N/A",
+      "garaje": "incluido"
+    },
+    "precio": "795.000 €",
+    "url": "https://www.idealista.com/inmueble/107967006/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/d8/08/74/1184878356.jpg",
+    "ubicacion": "Torrox, 6, Lo Cea - Los Cortijos, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Piso (Obra nueva)",
+      "metros_construidos": 60,
+      "habitaciones": 2,
+      "baños": "N/A",
+      "planta": "1ª exterior con ascensor",
+      "garaje": "incluido"
+    },
+    "precio": "308.000 €",
+    "url": "https://www.idealista.com/inmueble/108107083/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/b6/e0/aa/1283107183.jpg",
+    "ubicacion": "Torrox, 6, Lo Cea - Los Cortijos, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Piso (Obra nueva)",
+      "metros_construidos": 100,
+      "habitaciones": 3,
+      "baños": "N/A",
+      "planta": "1ª exterior con ascensor",
+      "garaje": "incluido"
+    },
+    "precio": "430.000 €",
+    "url": "https://www.idealista.com/inmueble/106444849/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/16/dd/c3/1361213826.jpg",
+    "ubicacion": "Calle Ribeiro, La Cala del Moral, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Piso",
+      "metros_construidos": 202,
+      "habitaciones": 3,
+      "baños": "N/A",
+      "planta": "Bajo exterior con ascensor",
+      "garaje": "incluido"
+    },
+    "precio": "400.000 €",
+    "url": "https://www.idealista.com/inmueble/108993528/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/2c/3a/01/1366156972.jpg",
+    "ubicacion": "Calle Girasol, Cotomar - Urbanizaciones, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Casa o chalet independiente",
+      "metros_construidos": 314,
+      "habitaciones": 6,
+      "baños": "N/A",
+      "garaje": "incluido",
+      "tipo_extra": "Villa"
+    },
+    "precio": "895.000 €",
+    "url": "https://www.idealista.com/inmueble/109164179/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/71/e9/21/1367343937.jpg",
+    "ubicacion": "Avenida Manuel Altolaguirre, La Cala del Moral, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Piso",
+      "metros_construidos": 72,
+      "habitaciones": 2,
+      "baños": "N/A",
+      "planta": "1ª exterior con ascensor",
+      "garaje": "opcional (80 €)"
+    },
+    "precio": "269.000 €",
+    "url": "https://www.idealista.com/inmueble/109049545/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/1d/6e/66/1353073487.jpg",
+    "ubicacion": "Calle Pepita Jimenez, 17, Pedregalejo - Morlaco, Málaga",
+    "detalles": {
+      "tipo": "Piso (Obra nueva)",
+      "metros_construidos": 124,
+      "habitaciones": 3,
+      "baños": "N/A",
+      "planta": "Bajo exterior con ascensor",
+      "garaje": "incluido"
+    },
+    "precio": "1.295.000 €",
+    "url": "https://www.idealista.com/inmueble/108718698/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/5d/af/d5/1340429439.jpg",
+    "ubicacion": "Calle Cueva de Menga, El Candado, Málaga",
+    "detalles": {
+      "tipo": "Casa o chalet independiente",
+      "metros_construidos": 361,
+      "habitaciones": 7,
+      "baños": "N/A",
+      "garaje": "incluido",
+      "extras": [
+        "Para inversores",
+        "Vistas al mar"
+      ]
+    },
+    "precio": "890.000 €",
+    "url": "https://www.idealista.com/inmueble/107866436/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/21/02/dc/1366243765.jpg",
+    "ubicacion": "Pinares de San Antón, Este, Málaga",
+    "detalles": {
+      "tipo": "Chalet pareado",
+      "metros_construidos": 201,
+      "habitaciones": 4,
+      "baños": "N/A",
+      "garaje": "incluido"
+    },
+    "precio": "975.000 €",
+    "url": "https://www.idealista.com/inmueble/109164338/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/ed/d6/af/1366684250.jpg",
+    "ubicacion": "Parking Supeco, Cotomar - Urbanizaciones, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Piso",
+      "metros_construidos": 73,
+      "metros_utiles": 68,
+      "habitaciones": 2,
+      "baños": 1,
+      "planta": "1ª exterior sin ascensor",
+      "garaje": "incluido",
+      "estado": "Segunda mano/buen estado",
+      "orientacion": "norte",
+      "calefaccion": "No dispone",
+      "equipamiento": [
+        "Aire acondicionado"
+      ],
+      "precio_por_m2": "3.922 €/m²"
+    },
+    "precio": "286.300 €",
+    "url": "https://www.idealista.com/inmueble/109181360/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/12/1b/cd/1325637409.jpg",
+    "ubicacion": "Cotomar - Urbanizaciones, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Casa o chalet independiente",
+      "metros_construidos": 253,
+      "habitaciones": 3,
+      "baños": "N/A",
+      "garaje": "incluido"
+    },
+    "precio": "1.150.000 €",
+    "url": "https://www.idealista.com/inmueble/106185366/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/5c/4e/b4/1352795244.jpg",
+    "ubicacion": "Calle San Federico, 5, Pedregalejo - Morlaco, Málaga",
+    "detalles": {
+      "tipo": "Chalet pareado (Obra nueva, lujo)",
+      "metros_construidos": 254,
+      "habitaciones": 4,
+      "baños": "N/A",
+      "garaje": "incluido"
+    },
+    "precio": "2.100.000 €",
+    "url": "https://www.idealista.com/inmueble/108962081/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/47/0a/48/1352795387.jpg",
+    "ubicacion": "Calle San Federico, 5, Pedregalejo - Morlaco, Málaga",
+    "detalles": {
+      "tipo": "Chalet pareado (Obra nueva, lujo)",
+      "metros_construidos": 357,
+      "habitaciones": 3,
+      "baños": "N/A",
+      "garaje": "incluido"
+    },
+    "precio": "2.200.000 €",
+    "url": "https://www.idealista.com/inmueble/108709208/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/47/0a/48/1352795387.jpg",
+    "ubicacion": "Calle San Federico, 5, Pedregalejo - Morlaco, Málaga",
+    "detalles": {
+      "tipo": "Chalet pareado (Obra nueva, lujo)",
+      "metros_construidos": 315,
+      "habitaciones": 3,
+      "baños": "N/A",
+      "garaje": "incluido"
+    },
+    "precio": "1.500.000 €",
+    "url": "https://www.idealista.com/inmueble/108962101/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/56/17/6b/1355310301.jpg",
+    "ubicacion": "Calle Cáceres, Cerrado de Calderón - Hacienda Paredes, Málaga",
+    "detalles": {
+      "tipo": "Dúplex",
+      "metros_construidos": 256,
+      "habitaciones": 4,
+      "baños": "N/A",
+      "planta": "5ª exterior con ascensor",
+      "garaje": "incluido"
+    },
+    "precio": "1.300.000 €",
+    "url": "https://www.idealista.com/inmueble/108715182/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/a3/24/3b/1353379177.jpg",
+    "ubicacion": "Calle Pepita Jimenez, 17, Pedregalejo - Morlaco, Málaga",
+    "detalles": {
+      "tipo": "Chalet pareado (Obra nueva)",
+      "metros_construidos": 247,
+      "habitaciones": 3,
+      "baños": "N/A",
+      "garaje": "incluido"
+    },
+    "precio": "1.995.000 €",
+    "url": "https://www.idealista.com/inmueble/108718739/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/b2/78/5c/1372855081.jpg",
+    "ubicacion": "Cotomar - Urbanizaciones, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Casa o chalet independiente",
+      "metros_construidos": 251,
+      "habitaciones": 4,
+      "baños": "N/A"
+    },
+    "precio": "1.442.000 €",
+    "url": "https://www.idealista.com/inmueble/109378737/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-P/0/id.pro.es.image.master/c7/1a/1d/1284033902.jpg",
+    "ubicacion": "Calle Aristóteles s/n, Añoreta baja, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Chalet adosado (Obra nueva)",
+      "metros_construidos": 249,
+      "habitaciones": 3,
+      "baños": "N/A",
+      "garaje": "incluido"
+    },
+    "precio": "575.000 €",
+    "url": "https://www.idealista.com/inmueble/106476316/"
+  },
+  {
+    "image": "https://img4.idealista.com/blur/WEB_DETAIL_TOP-L-L/0/id.pro.es.image.master/c7/09/87/1185111250.jpg",
+    "ubicacion": "Calle los Rosales, Cotomar - Urbanizaciones, Rincón de la Victoria",
+    "detalles": {
+      "tipo": "Casa o chalet independiente",
+      "metros_construidos": 545,
+      "metros_utiles": 463,
+      "habitaciones": 10,
+      "baños": 6,
+      "parcela_m2": 1150,
+      "orientacion": "sur",
+      "anio_construccion": 1978,
+      "garaje": "incluido",
+      "equipamiento": [
+        "Aire acondicionado",
+        "Piscina"
+      ]
+    },
+    "precio": "1.200.000 €",
+    "url": "https://www.idealista.com/inmueble/103231150/"
+  }
+]
